@@ -43,4 +43,4 @@ For a better experience, preferably use TizenTube Cobalt on a [**Google TV certi
 - [Discord Server](https://discord.gg/m2P7v8Y2qR)
 - [Telegram Channel](https://t.me/tizentubecobaltofficial)
 - [Matrix Space](https://matrix.to/#/!BLE5ubNYktI30e8K0j:matrix.6513006.xyz)
-- [Report Issues / Request Features](https://github.com/reisxd/TizenTube/issues)
+- [Report Issues / Request Features](https://github.com/reisxd/TizenTube/issues) 👋 
